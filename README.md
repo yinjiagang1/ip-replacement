@@ -35,7 +35,7 @@
 ### 方式一：部署到 Cloudflare Workers
 
 1.  登录 [Cloudflare](https://dash.cloudflare.com/)。    
-2.  进入 **计算和 AI** -> **Workers & Pages** -> **创建应用程序**，或者**账户主页** -> **开发人员平台** -> **创建应用程序**。  
+2.  进入 **计算和 AI** -> **Workers & Pages** -> **创建应用程序**，或者 **账户主页** -> **开发人员平台** -> **创建应用程序**。  
 3.  点击 **从 Hello World!开始。      
 4.  命名你的 Worker（例如 `ip-tools`），点击 **部署**。
 5.  点击 **编辑代码**。    
@@ -50,7 +50,7 @@
 
 1.  将本项目中的 `ip-replacement.html` 文件下载到本地电脑。
 2.  登录 [Cloudflare](https://dash.cloudflare.com/)。  
-3.  进入 **计算和 AI** -> **Workers & Pages** -> **创建应用程序**，或者**账户主页** -> **开发人员平台** -> **创建应用程序**。    
+3.  进入 **计算和 AI** -> **Workers & Pages** -> **创建应用程序**，或者 **账户主页** -> **开发人员平台** -> **创建应用程序**。    
 4.  点击Looking to deploy Pages?后面的 **Get started** -> 拖放文件**开始使用**。    
 5.  输入项目名称（例如 `ip-tools-web`），点击 **创建项目**。
 6.  将包含 `ip-replacement.html` 的文件夹（或者直接拖拽文件）上传。
